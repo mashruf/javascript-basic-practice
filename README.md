@@ -1,3 +1,3 @@
 # Basic JavaScript Practice
 
-A collection of beginner-friendly JavaScript practice problems and solutions.
+A collection of JavaScript practice problems and solutions.
